@@ -1,0 +1,2 @@
+model_checkpoint_path: "svaed.cpkt"
+all_model_checkpoint_paths: "svaed.cpkt"
